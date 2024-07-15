@@ -60,7 +60,9 @@ input{
     padding: 0px 20px;
     border: none;
     margin-bottom: 20px;
-    color:white;
+    color:white; 
+    font-size: 17px;
+    
 
 }
 button{
@@ -76,7 +78,7 @@ button{
     text-transform: uppercase;
 } 
 input:hover{
-    color: purple;
+    color: black;
     
 }
 
